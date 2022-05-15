@@ -1,6 +1,6 @@
 # Checklist
-Чек-лист для панели редактирования задачи в органайзере (веб-приложение). 
-На основе спецификации и дизайнерских скетчей составлен список проверок для следующих функциональностей:
+[Чек-лист](https://github.com/Ed-Yunusov/Test-documentation/blob/main/Checklist/Checklist%20(Organizer).pdf) для панели редактирования задачи в органайзере (веб-приложение). 
+На основе [спецификации](https://github.com/Ed-Yunusov/Test-documentation/blob/main/Checklist/Specification%20(Organizer).pdf) и [дизайнерских скетчей](https://github.com/Ed-Yunusov/Test-documentation/blob/main/Checklist/Designer%20sketches%20(Organizer).pdf) составлен список проверок для следующих функциональностей:
 + Название задачи
 + Status
 + Deadline
