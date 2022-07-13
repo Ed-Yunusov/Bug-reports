@@ -1,5 +1,5 @@
 # Bug reports
-Результаты ручного тестирования проектов EspoCRM, HiTechPlace, ListBoxer, MySite, PhpTravels. Баг-репорты созданы в баг-трекинговой системе **YouTrack**.
+Результаты ручного тестирования учебных проектов EspoCRM, HiTechPlace, ListBoxer, MySite, PhpTravels. Баг-репорты созданы в баг-трекинговой системе **YouTrack**.
 
 + **EspoCRM** - это ПО с открытым исходным кодом, которое позволяет создавать задачи, контрагентов, просматривать календарь, планировать встречи, вести бухгалтерию и конфигурировать интерфейс. [см. Bug report](https://github.com/Ed-Yunusov/Test-documentation/blob/main/Bug%20reports/Bug%20report%20(EspoCRM).pdf)
 
