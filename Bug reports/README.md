@@ -11,3 +11,4 @@
 
 + **PhpTravels** - это тренировочный сервис бронирования авиабилетов, туров, отелей и транспорта. [см. Bug report](https://github.com/Ed-Yunusov/Test-documentation/blob/main/Bug%20reports/Bug%20report%20(PhpTravels).pdf)
 
+[Баг-репорты](https://docs.google.com/spreadsheets/d/1Fe_vyeXNlpmkidiLBsn44yR7ztk5QgzA/edit?usp=sharing&ouid=106393652802839865381&rtpof=true&sd=true) desktop приложения ["Тестировщик 1.0"](https://github.com/Ed-Yunusov/Test-documentation/blob/main/Bug%20reports/Test%20job%20Tester.png) (`тестовое задание`).
